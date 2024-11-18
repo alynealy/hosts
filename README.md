@@ -1,2 +1,2 @@
 # hosts
-O scurta descriere
+comment
